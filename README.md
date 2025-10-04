@@ -26,6 +26,7 @@ The playbook demonstrates the use of **OSINT and analysis tools** to enrich inve
 - **[VirusTotal](https://www.virustotal.com/)** – For scanning domains, IPs, URLs, and file hashes against multiple AV vendors.  
 - **[CyberChef](https://gchq.github.io/CyberChef/)** – For decoding, decrypting, and analyzing encoded payloads (e.g., Base64 commands).  
 - **[Abuse.ch](https://abuse.ch/)** – For malware and threat intelligence (AsyncRAT, TrickBot, Emotet, etc.).  
+- **jq** – JSON parsing and extraction on the command line.
 - **[DomainTools / WHOIS](https://whois.domaintools.com/)** – For domain registration lookups and age verification.  
 - **[Wireshark](https://www.wireshark.org/)** – For deep packet inspection and network protocol analysis.  
 - **[Notepad++](https://notepad-plus-plus.org/)** – For analyzing email headers and raw logs with syntax highlighting.  
